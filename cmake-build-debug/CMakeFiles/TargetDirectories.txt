@@ -1,0 +1,3 @@
+C:/Users/Ivan Junco/CLionProjects/FUNCIONES/cmake-build-debug/CMakeFiles/FUNCIONES.dir
+C:/Users/Ivan Junco/CLionProjects/FUNCIONES/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan Junco/CLionProjects/FUNCIONES/cmake-build-debug/CMakeFiles/rebuild_cache.dir
